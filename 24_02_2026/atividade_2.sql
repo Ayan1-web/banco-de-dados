@@ -52,9 +52,3 @@ insert into vendas values(05,'Paulo','657882','credito','Em andamento','2024-11-
 insert into vendas values(06,'Diogo','657882','debito','Pago','2018-09-29');
 
 select * from vendas
-
-
-
-
-
-
